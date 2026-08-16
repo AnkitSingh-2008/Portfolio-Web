@@ -16,4 +16,4 @@ It showcases my academic projects, certifications, and contact details in a clea
   - Data Analyst 101 – Simplilearn SkillUp (Microsoft), Aug 2026 (Code: 10608270)
 - **Contact Section** – Email, phone, LinkedIn, and GitHub links.
 
-## 📂 Repository Structure
+
